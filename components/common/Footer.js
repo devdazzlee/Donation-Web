@@ -14,7 +14,8 @@ const Footer = ({ white_bg = '' }) => {
                                  <div className="logo">
                                     <Link href="/">
                                        <a>
-                                          <img src="/assets/img/logo/logo.png" alt="" />
+                                       <span style={{"fontSize" :"1.2rem" , "fontWeight" :"bold"}}>Eduction Empower</span>
+                                          {/* <img src="/assets/img/logo/logo.png" alt="" /> */}
                                        </a>
                                     </Link>
                                  </div>

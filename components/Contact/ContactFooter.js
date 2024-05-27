@@ -14,7 +14,7 @@ const ContactFooter = () => {
                                  <div className="logo">
                                     <Link href="/">
                                        <a >
-                                          <img src="/assets/img/logo/logo-white.png" alt="" />
+                                       <span style={{"fontSize" :"1.2rem" , "fontWeight" :"bold"}}>Eduction Empower</span>
                                        </a>
                                     </Link>
                                  </div>

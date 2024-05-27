@@ -14,7 +14,7 @@ const HomeTwoFooter = () => {
                                  <div className="logo">
                                     <Link href="/">
                                        <a >
-                                          <img src="/assets/img/logo/logo-2.png" alt="" />
+                                       <span style={{"fontSize" :"1.2rem" , "fontWeight" :"bold"}}>Eduction Empower</span>
                                        </a>
                                     </Link>
                                  </div>

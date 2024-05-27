@@ -53,7 +53,7 @@ const TeamArea = () => {
                <div className="row align-items-end">
                   <div className="col-xxl-6 col-xl-6 col-lg-6">
                      <div className="section__title-wrapper-2 mb-40">
-                        <span className="section__title-pre-2">Top Instructors</span>
+                        <span className="section__title-pre-2">Top Contributers</span>
                         <h3 className="section__title-2">Become A Instruction Instructor.</h3>
                      </div>
                   </div>
